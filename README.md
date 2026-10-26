@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Jawaharlal Nehru Technological University Hyderabad is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://jntuh.ac.in/
+Jawaharlal Nehru Technological University Hyderabad (JNTUH) is a public university located in Hyderabad, India, offering a wide range of engineering, technology, and management programs. Established in 1972, it serves thousands of students and conducts extensive research, collaborations, and industry partnerships. The university provides various digital services and portals for students, faculty, and staff, reflecting its commitment to modern education and technology integration.
+
+**Areas:** Company · Education · University · India · Engineering
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://jntuh.ac.in/)
+- [Documentation](https://jntuh.ac.in/)
+- [Terms of service](https://jntuh.ac.in/terms-and-conditions)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/jawaharlal-nehru-technological-university-hyderabad/](https://apis.io/providers/jawaharlal-nehru-technological-university-hyderabad/).
